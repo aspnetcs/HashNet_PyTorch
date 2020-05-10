@@ -1,5 +1,11 @@
 # HashNet: Deep Learning to Hash by Continuation
 
+# Paper
+https://arxiv.org/pdf/1702.00758.pdf
+
+# Reference
+Cao Z , Long M , Wang J , et al. HashNet: Deep Learning to Hash by Continuation[J]. 2017.
+
 ## REQUIREMENTS
 `pip install -r requirements.txt`
 
