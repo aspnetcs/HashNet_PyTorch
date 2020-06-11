@@ -49,6 +49,10 @@ optional arguments:
                         Evaluation interval.(default: 10)
 ```
 
+## Examples
+
+python run.py --dataset cifar-10 --root .\data\cifar-10\ --code-length 12
+
 ## EXPERIMENTS
 CNN model: Alexnet.
 
